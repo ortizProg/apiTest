@@ -1,0 +1,24 @@
+{
+    "videos": [
+        {
+            "title": "Video 1",
+            "subtitle": "Este es un video para la prueba del curso de ANGULAR",
+            "image": "https://i.ytimg.com/vi/Bkvdvj2mh48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaBMYnDDfSsPVWomb_FuWHa8XBSw"
+        },
+        {
+            "title": "Video 2",
+            "subtitle": "Este es un video para la prueba del curso de ANGULAR",
+            "image": "https://i.ytimg.com/vi/ARWg160eaX4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQIMAR0pZWHWL4VVQommg3MRnQSw"
+        },
+        {
+            "title": "Video 3",
+            "subtitle": "Este es un video para la prueba del curso de ANGULAR",
+            "image": "https://i.ytimg.com/vi/5oT0PVRWnyE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6vUsBCDhnSpHk85c9RJIjBV7pYw"
+        },
+        {
+            "title": "Video 4",
+            "subtitle": "Este es un video para la prueba del curso de ANGULAR",
+            "image": "https://i.ytimg.com/vi/uN5oClydrW0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTBMJsDyySIRQJlXlAVXwxXuTuLQ"
+        }
+    ]
+}
