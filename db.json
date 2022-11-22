@@ -5,28 +5,44 @@
             "title": "Video 1",
             "subtitle": "Este es un video para la prueba del curso de ANGULAR",
             "image": "https://i.ytimg.com/vi/Bkvdvj2mh48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaBMYnDDfSsPVWomb_FuWHa8XBSw",
-            "detail": "En el video de hoy vas aprender a crear rutas e invocar un componente, específicamente cómo CREAR RUTAS (ROUTING) en ANGULAR11 Si estás empezando a programar, o si quieres fortalecer tus conocimientos te doy la bienvenida a este canal. Aquí hablamos angular desde cero, node, mongo, de frontend de backend,  problemas reales de un programador y soluciones que se aplican en el día a día. Aquí vas a encontrar tutorías de angular, tutoriales de node, juntos llevaremos a la práctica ejercicios reales, así que venga y le cuento. "
+            "detail": "En el video de hoy vas aprender a crear rutas e invocar un componente, específicamente cómo CREAR RUTAS (ROUTING) en ANGULAR11 Si estás empezando a programar, o si quieres fortalecer tus conocimientos te doy la bienvenida a este canal. Aquí hablamos angular desde cero, node, mongo, de frontend de backend,  problemas reales de un programador y soluciones que se aplican en el día a día. Aquí vas a encontrar tutorías de angular, tutoriales de node, juntos llevaremos a la práctica ejercicios reales, así que venga y le cuento.",
+            "author": {
+                "name": "OrtizProg",
+                "image": "https://avatars.githubusercontent.com/u/83895728?s=40&v=4"
+            }
         },
         {
             "id":2,
             "title": "Video 2",
             "subtitle": "Este es un video para la prueba del curso de ANGULAR",
             "image": "https://i.ytimg.com/vi/ARWg160eaX4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQIMAR0pZWHWL4VVQommg3MRnQSw",
-            "detail": "Si lo que necesitas hacer es económico, entonces entra a nomics.com y podrás consumir los datos de las principales criptomonedas del mundo. Es decir, sus precios, cambios y predicciones. Con esta información podrás crear aplicaciones móviles, bots comerciales, gráficos y mucho más. ¡Solo debes generar tu clave API gratis! Comienza aquí."
+            "detail": "Si lo que necesitas hacer es económico, entonces entra a nomics.com y podrás consumir los datos de las principales criptomonedas del mundo. Es decir, sus precios, cambios y predicciones. Con esta información podrás crear aplicaciones móviles, bots comerciales, gráficos y mucho más. ¡Solo debes generar tu clave API gratis! Comienza aquí.",
+            "author": {
+                "name": "OrtizProg",
+                "image": "https://avatars.githubusercontent.com/u/83895728?s=40&v=4"
+            }
         },
         {
             "id": 3,
             "title": "Video 3",
             "subtitle": "Este es un video para la prueba del curso de ANGULAR",
             "image": "https://i.ytimg.com/vi/5oT0PVRWnyE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6vUsBCDhnSpHk85c9RJIjBV7pYw",
-            "detail": "JSON placeholder es una API gratuita que te ofrece datos ficticios como fotos, publicaciones, comentarios, datos de usuarios falsos, rutas y mucho más. Ahora es tu turno de usarla haciendo clic aquí."
+            "detail": "JSON placeholder es una API gratuita que te ofrece datos ficticios como fotos, publicaciones, comentarios, datos de usuarios falsos, rutas y mucho más. Ahora es tu turno de usarla haciendo clic aquí.",
+            "author": {
+                "name": "OrtizProg",
+                "image": "https://avatars.githubusercontent.com/u/83895728?s=40&v=4"
+            }
         },
         {
             "id": 4,
             "title": "Video 4",
             "subtitle": "Este es un video para la prueba del curso de ANGULAR",
             "image": "https://i.ytimg.com/vi/uN5oClydrW0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTBMJsDyySIRQJlXlAVXwxXuTuLQ",
-            "detail": "¿Quieres hacer algo más serio? entonces la API COVID Tracking es para ti. Consume datos del COVID-19 de todo el mundo como número de contagios, pruebas, pacientes hospitalizados, fallecidos y mucho más. Ingresa aquí para comenzar a usarla."
+            "detail": "¿Quieres hacer algo más serio? entonces la API COVID Tracking es para ti. Consume datos del COVID-19 de todo el mundo como número de contagios, pruebas, pacientes hospitalizados, fallecidos y mucho más. Ingresa aquí para comenzar a usarla.",
+            "author": {
+                "name": "OrtizProg",
+                "image": "https://avatars.githubusercontent.com/u/83895728?s=40&v=4"
+            }
         }
     ]
 }
