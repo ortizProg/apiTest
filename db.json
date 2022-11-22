@@ -2,7 +2,7 @@
     "videos": [
         {
             "id": 1,
-            "title": "Video",
+            "title": "Video 1",
             "subtitle": "Este es un video para la prueba del curso de ANGULAR",
             "image": "https://i.ytimg.com/vi/Bkvdvj2mh48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaBMYnDDfSsPVWomb_FuWHa8XBSw",
             "detail": "En el video de hoy vas aprender a crear rutas e invocar un componente, específicamente cómo CREAR RUTAS (ROUTING) en ANGULAR11 Si estás empezando a programar, o si quieres fortalecer tus conocimientos te doy la bienvenida a este canal. Aquí hablamos angular desde cero, node, mongo, de frontend de backend,  problemas reales de un programador y soluciones que se aplican en el día a día. Aquí vas a encontrar tutorías de angular, tutoriales de node, juntos llevaremos a la práctica ejercicios reales, así que venga y le cuento. "
