@@ -46,5 +46,8 @@
         }
     ],
     "comments": [
+        {
+            text: "Primera prueba"
+        }
      ]
 }
