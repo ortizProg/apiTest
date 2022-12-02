@@ -10,8 +10,6 @@
                 "name": "OrtizProg",
                 "image": "https://avatars.githubusercontent.com/u/83895728?s=40&v=4"
             },
-            "comments": [
-            ]
         },
         {
             "id":2,
@@ -23,8 +21,6 @@
                 "name": "OrtizProg",
                 "image": "https://avatars.githubusercontent.com/u/83895728?s=40&v=4"
             },
-            "comments": [
-            ]
         },
         {
             "id": 3,
@@ -36,8 +32,6 @@
                 "name": "OrtizProg",
                 "image": "https://avatars.githubusercontent.com/u/83895728?s=40&v=4"
             },
-            "comments": [
-            ]
         },
         {
             "id": 4,
@@ -49,8 +43,8 @@
                 "name": "OrtizProg",
                 "image": "https://avatars.githubusercontent.com/u/83895728?s=40&v=4"
             },
-            "comments": [
-            ]
         }
-    ]
+    ],
+    "comments": [
+     ]
 }
